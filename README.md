@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Cancellation Prediction using Machine Learning
+# Hotel Booking Cancellation Prediction using Machine Learning
 
 ## 📌 Project Overview
 
